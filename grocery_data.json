@@ -1,77 +1,32 @@
 {
-    "grocery_list": [],
+    "grocery_list": [
+        "soda"
+    ],
     "purchase_history": [
         {
-            "item": "buuter",
+            "item": "milk",
             "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
+            "purchase_date": "2023-01-01",
+            "expiry_date": "2023-01-08"
         },
         {
-            "item": "butter",
+            "item": "meat",
             "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "popcorn",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "popcorn",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "popcorn",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "popcorn",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "popcorn",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "olive oil",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "olive oil \ud83e\udd51",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
-        },
-        {
-            "item": "olive oil",
-            "quantity": 1,
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16"
+            "purchase_date": "2025-11-20",
+            "expiry_date": "2025-11-23"
         }
     ],
-    "last_purchase": {},
-    "last_purchase_date": {
-        "buuter": "2025-12-09",
-        "butter": "2025-12-09",
-        "popcorn": "2025-12-09",
-        "olive oil": "2025-12-09",
-        "olive oil \ud83e\udd51": "2025-12-09"
+    "last_purchase": {
+        "milk": "2025-11-25",
+        "meat": "2025-11-20"
     },
-    "purchase_intervals": {
-        "popcorn": [],
-        "olive oil": []
-    }
+    "user_preferences": {
+        "health_conscious": true,
+        "budget": "medium",
+        "dietary_restrictions": [],
+        "family_size": 1
+    },
+    "shopping_frequency": "weekly",
+    "last_purchase_date": {},
+    "purchase_intervals": {}
 }
