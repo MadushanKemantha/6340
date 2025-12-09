@@ -1,0 +1,77 @@
+{
+    "grocery_list": [],
+    "purchase_history": [
+        {
+            "item": "buuter",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "butter",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "popcorn",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "popcorn",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "popcorn",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "popcorn",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "popcorn",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "olive oil",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "olive oil \ud83e\udd51",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        },
+        {
+            "item": "olive oil",
+            "quantity": 1,
+            "purchase_date": "2025-12-09",
+            "expiry_date": "2025-12-16"
+        }
+    ],
+    "last_purchase": {},
+    "last_purchase_date": {
+        "buuter": "2025-12-09",
+        "butter": "2025-12-09",
+        "popcorn": "2025-12-09",
+        "olive oil": "2025-12-09",
+        "olive oil \ud83e\udd51": "2025-12-09"
+    },
+    "purchase_intervals": {
+        "popcorn": [],
+        "olive oil": []
+    }
+}

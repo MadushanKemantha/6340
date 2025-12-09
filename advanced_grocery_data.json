@@ -1,0 +1,23 @@
+{
+    "grocery_list": [
+        "greek yogurt",
+        "whole wheat bread",
+        "fresh spinach",
+        "almonds",
+        "salmon"
+    ],
+    "purchase_history": [],
+    "last_purchase": {},
+    "user_stats": {
+        "total_items_bought": 0,
+        "money_saved": 0,
+        "health_score": 50,
+        "preferences": {
+            "vegetarian": false,
+            "gluten_free": false,
+            "dairy_free": false,
+            "budget_level": "medium"
+        }
+    },
+    "shopping_patterns": {}
+}
