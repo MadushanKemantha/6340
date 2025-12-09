@@ -1,0 +1,38 @@
+{
+    "grocery_list": [
+        "butter",
+        "milk",
+        "bread",
+        "cheese",
+        "eggs",
+        "fruits"
+    ],
+    "purchase_history": [
+        {
+            "item": "milk",
+            "date": "2025-12-04",
+            "expiry_days": 7
+        },
+        {
+            "item": "eggs",
+            "date": "2025-12-06",
+            "expiry_days": 7
+        },
+        {
+            "item": "bread",
+            "date": "2025-12-03",
+            "expiry_days": 7
+        },
+        {
+            "item": "butter",
+            "date": "2025-12-08",
+            "expiry_days": 7
+        }
+    ],
+    "last_purchase": {
+        "milk": "2025-12-04",
+        "eggs": "2025-12-06",
+        "bread": "2025-12-03",
+        "butter": "2025-12-08"
+    }
+}
